@@ -1,3 +1,4 @@
+/**@author <Ketevan Khatiashvili>   */
 package homework5;
 
 public class GradeCalculator {
