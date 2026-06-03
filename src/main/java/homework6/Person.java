@@ -2,9 +2,9 @@
 package homework6;
 
 public class Person {
-    String name;
-    String email;
-    int age;
+    private String name;
+    private String email;
+    private int age;
 
     public Person(String name, String email, int age){
         this.age=age;
